@@ -65,8 +65,8 @@
             class="navbar-item"
             target="_blank"
             rel="noopener"
-            title="View on github"
-            href="https://github.com/Aicirou/goindex-theme-acrou"
+            title="支援者"
+            href="https://wvw.lbdcj.top"
           >
             <i class="fab fa-github"></i>
           </a>
